@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="btn_todo">TODO</string>
+    <string name="btn_add">追加</string>
+    <string name="btn_back">戻る</string>
+    <string name="sc_add">+</string>
+    <string name="sc_title">予定なし</string>
+    <string name="sc_titlename">タイトル:</string>
+    <string name="sc_date">年月日:</string>
+    <string name="sc_time">時間:</string>
+    <string name="sc_date_split">～</string>
+    <string name="sc_time_split">～</string>
+    <string name="scbtn_add">追加</string>
+    <string name="sc_back">戻る</string>
+    <string name="sc_memoname">メモ:</string>
+    <string name="sc_home">スケジュール</string>
+    <string name="sc_addname">スケジュール追加</string>
+
+    <!--todo_add-->
+    <string name="tda_back">戻る</string>
+    <string name="tda_title">タイトル</string>
+    <string name="tda_date">年月日</string>
+    <string name="tda_time">時間</string>
+    <string name="tda_memo">メモ:</string>
+    <string name="tda_add">追加</string>
+    <string name="tda_home">新規追加</string>
+
+    <!--todohome-->
+    <string name="tdh_back">戻る</string>
+    <string name="tdh_add">+</string>
+    <string name="tdh_name">TODOリスト</string>
+
+    <!--EditCalender-->
+    <string name="ec_home">編集</string>
+    <string name="ec_delete">削除</string>
+    <string name="ec_title">タイトル</string>
+    <string name="ec_date">日付</string>
+    <string name="ec_time">時間</string>
+    <string name="ec_memo">メモ</string>
+    <string name="ec_back">戻る</string>
+    <string name="ec_sf">~</string>
+    <string name="ec_save">保存</string>
+</resources>
